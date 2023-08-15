@@ -2,7 +2,7 @@
 
 ## 👽 Sobre mim
 
-- Desenvolvimento Back-End com foco em Java e Spring
+- Desenvolvedor Back-End - Java e Spring
 - Cursando o Análise e Desenvolvimento de Sistemas na Unisociesc
 - Aqui você vai encontrar todos meus projetos 🙃
 ---
