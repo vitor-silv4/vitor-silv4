@@ -1,4 +1,4 @@
-# Olá bem-vindo, eu sou o Vitor hugo 👋# Desenvolvedor Java ☕
+# Olá bem-vindo, eu sou o Vitor hugo - Desenvolvedor Java ☕
 
 ##  👽 Sobre mim
 
