@@ -1,6 +1,6 @@
-### Olá bem-vindo, eu sou o Vitor hugo 🙃
+## Olá bem-vindo, eu sou o Vitor hugo 👋
 ## Desenvolvedor Java ☕
---
+
 
 ##  👽 Sobre mim
 
@@ -21,6 +21,7 @@
 ## ⏳ Loading
 
 - Microsserviços
+- Cloud
 - Stack Front-End Angular ou React
 - Inglês
 ---
