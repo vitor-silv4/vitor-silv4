@@ -2,10 +2,10 @@
 
 ##  👽 Sobre mim
 
-- Atualmente estou atuando como supote técnico e monitoramente na Ibrascan
+- Atualmente estou trabalhando com supote técnico e monitoramente na Ibrascan
 - Cursando o Análise e Desenvolvimento de Sistemas na Unisociesc
 - No momento estou me especializando no Desenvolvimento Back-End com foco em Java e Spring na Alura
-- Aqui você vai encontrar meus projetos que estão desenvolvidos ou em desenvolvimento
+- Aqui você vai encontrar meus projetos desenvolvidos ou em desenvolvimento
 ---
 
 ## 🛠💻 Skills
