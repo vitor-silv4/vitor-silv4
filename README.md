@@ -4,12 +4,11 @@
 
 ## Desenvolvedor Java ☕
 
-## 👽 Sobre mim
+👽 Sobre mim
 
-- Atualmente estou trabalhando com supote técnico e monitoramente na Ibrascan
+- Desenvolvimento Back-End com foco em Java e Spring
 - Cursando o Análise e Desenvolvimento de Sistemas na Unisociesc
-- No momento estou me especializando no Desenvolvimento Back-End com foco em Java e Spring na Alura
-- Aqui você vai encontrar meus projetos desenvolvidos ou em desenvolvimento
+- Aqui você vai encontrar todos meus projetos 🙃
 ---
 
 ## 🛠💻 Skills
