@@ -1,8 +1,9 @@
 # Olá bem-vindo, eu sou o Vitor hugo 👋 
+--
 
-##  ☕ Desenvolvedor Java 
+## Desenvolvedor Java 
 
-##  👽 Sobre mim
+## 👽 Sobre mim
 
 - Atualmente estou trabalhando com supote técnico e monitoramente na Ibrascan
 - Cursando o Análise e Desenvolvimento de Sistemas na Unisociesc
