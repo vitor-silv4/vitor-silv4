@@ -4,30 +4,30 @@
 
 ##  👽 Sobre mim
 
-- **Atualmente estou atuando como supote técnico e monitoramente na Ibrascan
-- **Cursando o Análise e Desenvolvimento de Sistemas na Unisociesc
-- **No momento estou me especializando no Desenvolvimento Back-End com foco em Java e Spring na Alura
-- **Aqui você vai encontrar meus projetos que estão desenvolvidos ou em desenvolvimento
+- Atualmente estou atuando como supote técnico e monitoramente na Ibrascan
+- Cursando o Análise e Desenvolvimento de Sistemas na Unisociesc
+- No momento estou me especializando no Desenvolvimento Back-End com foco em Java e Spring na Alura
+- Aqui você vai encontrar meus projetos que estão desenvolvidos ou em desenvolvimento
 ---
 
 ## 🛠💻 Skills
 
-- **Minha Stack: Java BackEnd, Spring, API Rest, SQL, Git.
-- **Conhecimento em Tecnologias como: Maven, JUnit, Bootstrap, JWT, entre outras.
-- **Conhecimento em Framework: Spring Framework, Spring Boot, Spring Data, Spring MVC, Spring Security, JavaFX, Hibernate, Mockito, JUnit, JPA, entre outros.
-- **Utilização de boas práticas: Clean Code, Design Patterns, SOLID, TDD, MVC, Injeção de dependencia, Autenticação JWT e POO.
+- Minha Stack: Java BackEnd, Spring, API Rest, SQL, Git.
+- Conhecimento em Tecnologias como: Maven, JUnit, Bootstrap, JWT, entre outras.
+- Conhecimento em Framework: Spring Framework, Spring Boot, Spring Data, Spring MVC, Spring Security, JavaFX, Hibernate, Mockito, JUnit, JPA, entre outros.
+- Utilização de boas práticas: Clean Code, Design Patterns, SOLID, TDD, MVC, Injeção de dependencia, Autenticação JWT e POO.
 ---
 
 ## ⏳ Loading
 
-- **Microsserviços
-- **Stack Front-End Angular ou React
-- **Inglês
+- Microsserviços
+- Stack Front-End Angular ou React
+- Inglês
 ---
 
 ## 📒 Contatos 
 
-- **[Linkedin]([https://www.oracle.com/java](https://www.linkedin.com/in/vitor-hugo-da-silva-01a018216/))**
-- **Email: vitorh.7@outlook.com
-- **Cel: (47) 99161-8222
+- [Linkedin]([https://www.oracle.com/java](https://www.linkedin.com/in/vitor-hugo-da-silva-01a018216/))**
+- Email: vitorh.7@outlook.com
+- Cel: (47) 99161-8222
 ---
