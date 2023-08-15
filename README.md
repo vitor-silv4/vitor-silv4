@@ -1,7 +1,5 @@
 # Olá bem-vindo, eu sou o Vitor hugo 👋 
 
-
-## Desenvolvedor Java ☕
 ## 👽 Sobre mim
 
 - Desenvolvimento Back-End com foco em Java e Spring
