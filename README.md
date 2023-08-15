@@ -25,7 +25,7 @@
 
 ## 📒 Contatos 
 
-- [Linkedin]([https://www.oracle.com/java](https://www.linkedin.com/in/vitor-hugo-da-silva-01a018216/))**
+- **[Linkedin]([https://www.oracle.com/java](https://www.linkedin.com/in/vitor-hugo-da-silva-01a018216/))**
 - Email: vitorh.7@outlook.com
 - Cel: (47) 99161-8222
 ---
