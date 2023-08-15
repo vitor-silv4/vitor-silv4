@@ -1,10 +1,8 @@
 # Olá bem-vindo, eu sou o Vitor hugo 👋 
-
-
+--
 
 ## Desenvolvedor Java ☕
-
-👽 Sobre mim
+## 👽 Sobre mim
 
 - Desenvolvimento Back-End com foco em Java e Spring
 - Cursando o Análise e Desenvolvimento de Sistemas na Unisociesc
