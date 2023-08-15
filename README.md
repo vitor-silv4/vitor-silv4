@@ -11,7 +11,7 @@
 
 ## 🛠💻 Skills
 
-- Minha Stack: Java BackEnd, Spring, API Rest, SQL, Git.
+- Minha Stack: Java Back-End, Spring, API Rest, SQL, Git.
 - Conhecimento em Tecnologias como: Maven, JUnit, Bootstrap, JWT, entre outras.
 - Conhecimento em Framework: Spring Framework, Spring Boot, Spring Data, Spring MVC, Spring Security, JavaFX, Hibernate, Mockito, JUnit, JPA, entre outros.
 - Utilização de boas práticas: Clean Code, Design Patterns, SOLID, TDD, MVC, Injeção de dependencia, Autenticação JWT e POO.
